@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cs-ninja
+- 👀 I’m interested in computers
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me IDK
